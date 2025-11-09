@@ -1,0 +1,23 @@
+[
+  {
+    "level": 1,
+    "formationWidth": 8,
+    "formationHeight": 5,
+    "baseSpeed": 400,
+    "shootingFrecuency": 1500
+  },
+  {
+    "level": 2,
+    "formationWidth": 9,
+    "formationHeight": 5,
+    "baseSpeed": 350,
+    "shootingFrecuency": 1200
+  },
+  {
+    "level": 3,
+    "formationWidth": 10,
+    "formationHeight": 6,
+    "baseSpeed": 300,
+    "shootingFrecuency": 1000
+  }
+]
