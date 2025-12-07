@@ -1,29 +1,98 @@
-[INFO|9:52:48]: Started loading resources. 
-[FINE|9:52:48]: Sprite Ship loaded. 
-[FINE|9:52:48]: Sprite ShipDestroyed loaded. 
-[FINE|9:52:48]: Sprite Bullet loaded. 
-[FINE|9:52:48]: Sprite EnemyBullet loaded. 
-[FINE|9:52:48]: Sprite EnemyShipA1 loaded. 
-[FINE|9:52:48]: Sprite EnemyShipA2 loaded. 
-[FINE|9:52:48]: Sprite EnemyShipB1 loaded. 
-[FINE|9:52:48]: Sprite EnemyShipB2 loaded. 
-[FINE|9:52:48]: Sprite EnemyShipC1 loaded. 
-[FINE|9:52:48]: Sprite EnemyShipC2 loaded. 
-[FINE|9:52:48]: Sprite EnemyShipSpecial loaded. 
-[FINE|9:52:48]: Sprite Explosion loaded. 
-[FINE|9:52:48]: Sprite SoundOn loaded. 
-[FINE|9:52:48]: Sprite SoundOff loaded. 
-[FINE|9:52:48]: Sprite Item_Explode loaded. 
-[FINE|9:52:48]: Sprite Item_Slow loaded. 
-[FINE|9:52:48]: Sprite Item_Stop loaded. 
-[FINE|9:52:48]: Sprite Item_Push loaded. 
-[FINE|9:52:48]: Sprite Item_Shield loaded. 
-[FINE|9:52:48]: Sprite Item_Heal loaded. 
-[INFO|9:52:48]: Finished loading the sprites. 
-[INFO|9:52:49]: Finished loading the fonts. 
-[INFO|9:52:49]: Starting 448x520 title screen at 60 fps. 
-[INFO|9:52:50]: Closing title screen. 
-[INFO|9:52:50]: Starting 448x520 game screen at 60 fps. 
-[INFO|9:52:50]: Initializing 5x4 ship formation in (20,100) 
-[INFO|9:52:50]: OMEGA : Initializing Boss OMEGA 
-[INFO|9:52:50]: OMEGA : move using the default pattern 
+[INFO|2:53:42]: Started loading resources. 
+[FINE|2:53:42]: Sprite Ship loaded. 
+[FINE|2:53:42]: Sprite ShipDestroyed loaded. 
+[FINE|2:53:42]: Sprite Bullet loaded. 
+[FINE|2:53:42]: Sprite EnemyBullet loaded. 
+[FINE|2:53:42]: Sprite EnemyShipA1 loaded. 
+[FINE|2:53:42]: Sprite EnemyShipA2 loaded. 
+[FINE|2:53:42]: Sprite EnemyShipB1 loaded. 
+[FINE|2:53:42]: Sprite EnemyShipB2 loaded. 
+[FINE|2:53:42]: Sprite EnemyShipC1 loaded. 
+[FINE|2:53:42]: Sprite EnemyShipC2 loaded. 
+[FINE|2:53:42]: Sprite EnemyShipSpecial loaded. 
+[FINE|2:53:42]: Sprite Explosion loaded. 
+[FINE|2:53:42]: Sprite SoundOn loaded. 
+[FINE|2:53:42]: Sprite SoundOff loaded. 
+[FINE|2:53:42]: Sprite Item_Explode loaded. 
+[FINE|2:53:42]: Sprite Item_Slow loaded. 
+[FINE|2:53:42]: Sprite Item_Stop loaded. 
+[FINE|2:53:42]: Sprite Item_Push loaded. 
+[FINE|2:53:42]: Sprite Item_Shield loaded. 
+[FINE|2:53:42]: Sprite Item_Heal loaded. 
+[INFO|2:53:42]: Finished loading the sprites. 
+[INFO|2:53:42]: Finished loading the fonts. 
+[INFO|2:53:42]: Starting 448x520 title screen at 60 fps. 
+[INFO|2:53:46]: Closing title screen. 
+[INFO|2:53:46]: Starting 448x520 game screen at 60 fps. 
+[INFO|2:53:46]: Initializing 5x4 ship formation in (20,100) 
+[INFO|2:53:46]: OMEGA : Initializing Boss OMEGA 
+[INFO|2:53:46]: OMEGA : move using the default pattern 
+[INFO|2:53:52]: load saved achieving file 
+[INFO|2:54:01]: Hit on player ship, 2 lives remaining. 
+[INFO|2:54:03]: Destroyed ship in (4,3) 
+[INFO|2:54:04]: Removed enemy 3 from column 4 
+[INFO|2:54:04]: Destroyed ship in (4,2) 
+[INFO|2:54:04]: Hit on player ship, 1 lives remaining. 
+[INFO|2:54:05]: Removed enemy 2 from column 4 
+[INFO|2:54:05]: Destroyed ship in (4,1) 
+[INFO|2:54:05]: An item (Slow) dropped 
+[INFO|2:54:06]: Removed enemy 1 from column 4 
+[INFO|2:54:06]: Destroyed ship in (4,0) 
+[INFO|2:54:06]: Shooters list reduced to 4 members. 
+[INFO|2:54:07]: Removed enemy 0 from column 4 
+[INFO|2:54:07]: Removed column 4 
+[INFO|2:54:07]: Destroyed ship in (3,3) 
+[INFO|2:54:08]: Destroyed ship in (3,2) 
+[INFO|2:54:08]: Removed enemy 3 from column 3 
+[INFO|2:54:09]: Removed enemy 2 from column 3 
+[INFO|2:54:09]: Destroyed ship in (3,1) 
+[INFO|2:54:10]: Destroyed ship in (3,0) 
+[INFO|2:54:10]: Shooters list reduced to 3 members. 
+[INFO|2:54:10]: Removed enemy 1 from column 3 
+[INFO|2:54:10]: Destroyed ship in (2,3) 
+[INFO|2:54:11]: Removed enemy 0 from column 3 
+[INFO|2:54:11]: Removed column 3 
+[INFO|2:54:11]: Removed enemy 3 from column 2 
+[INFO|2:54:11]: Destroyed ship in (2,2) 
+[INFO|2:54:12]: Removed enemy 2 from column 2 
+[INFO|2:54:12]: Destroyed ship in (1,3) 
+[INFO|2:54:12]: An item (Push) dropped 
+[INFO|2:54:12]: Player acquired dropItem: Push 
+[INFO|2:54:13]: Removed enemy 3 from column 1 
+[INFO|2:54:13]: A special ship appears 
+[INFO|2:54:13]: Destroyed ship in (1,2) 
+[INFO|2:54:14]: Removed enemy 2 from column 1 
+[INFO|2:54:14]: Destroyed ship in (1,1) 
+[INFO|2:54:15]: Removed enemy 1 from column 1 
+[INFO|2:54:15]: Destroyed ship in (0,1) 
+[INFO|2:54:15]: An item (Shield) dropped 
+[INFO|2:54:15]: Removed enemy 1 from column 0 
+[INFO|2:54:15]: Destroyed ship in (0,2) 
+[INFO|2:54:16]: Player acquired dropItem: Shield 
+[INFO|2:54:16]: Removed enemy 2 from column 0 
+[INFO|2:54:16]: Destroyed ship in (0,1) 
+[INFO|2:54:16]: Formation now moving down-left (hit right wall) 
+[INFO|2:54:17]: Removed enemy 1 from column 0 
+[INFO|2:54:17]: Destroyed ship in (0,0) 
+[INFO|2:54:17]: Shooters list reduced to 2 members. 
+[INFO|2:54:17]: An item (Heal) dropped 
+[INFO|2:54:18]: Removed enemy 0 from column 0 
+[INFO|2:54:18]: Removed column 0 
+[INFO|2:54:18]: Player acquired dropItem: Heal 
+[INFO|2:54:18]: Destroyed ship in (0,0) 
+[INFO|2:54:18]: Shooters list reduced to 1 members. 
+[INFO|2:54:18]: An item (Slow) dropped 
+[INFO|2:54:19]: Removed enemy 0 from column 0 
+[INFO|2:54:19]: Player acquired dropItem: Slow 
+[INFO|2:54:19]: Enemy formation slowed down! 
+[INFO|2:54:19]: Enemy formation slowed down! 
+[INFO|2:54:19]: Removed column 0 
+[INFO|2:54:19]: Destroyed ship in (0,1) 
+[INFO|2:54:20]: Removed enemy 1 from column 0 
+[INFO|2:54:20]: Destroyed ship in (0,0) 
+[INFO|2:54:20]: Shooters list reduced to 0 members. 
+[INFO|2:54:20]: An item (Shield) dropped 
+[INFO|2:54:22]: Screen cleared with a score of 600 
+[INFO|2:54:22]: Closing game screen. 
+[INFO|2:54:22]: Opening shop screen with 40 coins. 
+[INFO|2:54:22]: Shop screen initialized with 40 coins. BetweenLevels=true 
