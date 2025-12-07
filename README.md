@@ -1,4 +1,4 @@
-[Visual effects system.md.txt](https://github.com/user-attachments/files/22483540/Visual.effects.system.md.txt)[Visual effects system.md.txt](https://github.com/user-attachments/files/22483539/Visual.effects.system.md.txt)# Space Invaders
+ Space Invaders
 
 > Course: Software Development Practices (CES2024) - 25-2-23292
 
