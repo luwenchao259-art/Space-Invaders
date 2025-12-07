@@ -1,0 +1,29 @@
+[INFO|9:52:48]: Started loading resources. 
+[FINE|9:52:48]: Sprite Ship loaded. 
+[FINE|9:52:48]: Sprite ShipDestroyed loaded. 
+[FINE|9:52:48]: Sprite Bullet loaded. 
+[FINE|9:52:48]: Sprite EnemyBullet loaded. 
+[FINE|9:52:48]: Sprite EnemyShipA1 loaded. 
+[FINE|9:52:48]: Sprite EnemyShipA2 loaded. 
+[FINE|9:52:48]: Sprite EnemyShipB1 loaded. 
+[FINE|9:52:48]: Sprite EnemyShipB2 loaded. 
+[FINE|9:52:48]: Sprite EnemyShipC1 loaded. 
+[FINE|9:52:48]: Sprite EnemyShipC2 loaded. 
+[FINE|9:52:48]: Sprite EnemyShipSpecial loaded. 
+[FINE|9:52:48]: Sprite Explosion loaded. 
+[FINE|9:52:48]: Sprite SoundOn loaded. 
+[FINE|9:52:48]: Sprite SoundOff loaded. 
+[FINE|9:52:48]: Sprite Item_Explode loaded. 
+[FINE|9:52:48]: Sprite Item_Slow loaded. 
+[FINE|9:52:48]: Sprite Item_Stop loaded. 
+[FINE|9:52:48]: Sprite Item_Push loaded. 
+[FINE|9:52:48]: Sprite Item_Shield loaded. 
+[FINE|9:52:48]: Sprite Item_Heal loaded. 
+[INFO|9:52:48]: Finished loading the sprites. 
+[INFO|9:52:49]: Finished loading the fonts. 
+[INFO|9:52:49]: Starting 448x520 title screen at 60 fps. 
+[INFO|9:52:50]: Closing title screen. 
+[INFO|9:52:50]: Starting 448x520 game screen at 60 fps. 
+[INFO|9:52:50]: Initializing 5x4 ship formation in (20,100) 
+[INFO|9:52:50]: OMEGA : Initializing Boss OMEGA 
+[INFO|9:52:50]: OMEGA : move using the default pattern 
