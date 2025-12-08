@@ -154,7 +154,7 @@ public class Ship extends Entity {
         if (!this.isInvincible) {
             this.destructionCooldown.reset();
             // Play hit sound effect
-            SoundManager.playSound("Invaders-SDP-23292/hit_sound.wav");
+            SoundManager.playSound("hit_sound.wav");
         }
 	}
 

@@ -102,7 +102,7 @@ public final class Core {
                     LOGGER.info("Closing title screen.");
                     break;
                 case 2:
-					SoundManager.playSound("Invaders-SDP-23292/background.wav");
+					SoundManager.playSound("background.wav");
                     do {
                         // One extra life every few levels
                         boolean bonusLife = gameState.getLevel()

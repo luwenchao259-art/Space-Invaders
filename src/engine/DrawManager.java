@@ -24,7 +24,6 @@ import screen.TitleScreen;
 import screen.TitleScreen.Star;
 import screen.TitleScreen.ShootingStar;
 
-import static com.sun.xml.internal.ws.spi.db.BindingContextFactory.LOGGER;
 
 /**
  * Manages screen drawing.
@@ -494,7 +493,7 @@ public final class DrawManager {
         drawCenteredRegularString(screen, shipsDestroyedString, screen.getHeight() / height + fontRegularMetrics.getHeight() * 4);
         drawCenteredRegularString(screen, accuracyString, screen.getHeight() / height + fontRegularMetrics.getHeight() * 6);
         drawCenteredRegularString(screen, gameDurationString, screen.getHeight() / height + fontRegularMetrics.getHeight() * 8);
-        LOGGER.info("Game duration: " + gameDuration/1000 + "s");
+      logger.info("Game duration: " + gameDuration/1000 + "s");
     }
 
     /**

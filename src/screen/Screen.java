@@ -9,7 +9,6 @@ import engine.Core;
 import engine.DrawManager;
 import engine.InputManager;
 
-import static com.sun.xml.internal.ws.spi.db.BindingContextFactory.LOGGER;
 
 /**
  * Implements a generic screen.
